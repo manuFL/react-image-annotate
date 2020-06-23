@@ -79,5 +79,6 @@
   },
   "prettier": {
     "semi": false
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
